@@ -30,7 +30,7 @@ TIER2_LINK = f'<a href="{TIER2_URL}" class="h1-link">Finnish sisu</a>'
 
 # Deployed origin — set to the real Render URL before/at deploy. Used only in
 # sitemap.xml, which needs absolute URLs. Canonicals stay relative per site.
-BASE_URL = "https://finnish-culture.example.com"
+BASE_URL = "https://finnish-culture.onrender.com"
 
 SITE_NAME = "Finnish Culture"
 
